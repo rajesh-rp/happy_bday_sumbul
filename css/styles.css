@@ -1,0 +1,74 @@
+body
+{
+	margin: 0;
+	padding: 0;
+}
+div
+{
+
+	padding: 0;
+	margin: 0;
+}
+h1
+{
+	margin-top: 30px;
+	font-size: 3rem;
+	font-family: 'Playball', cursive;
+}
+p
+{
+	font-size: 2rem;
+	margin: 0 auto;
+	width: 60%;
+	font-family: 'Tenali Ramakrishna', sans-serif;
+}
+.bottom-container
+{
+	padding: 50px 0;
+}
+.top-div
+{
+	padding: 0;
+}
+.transition
+{
+   padding: 0;
+}
+.mid-container
+{
+	padding: 50px 0;
+}
+.bottom-container
+{
+	text-align: center;
+}
+.wish
+{
+	text-align: center;
+	width: 100%;
+}
+.col
+{
+	padding-left: 0;
+	padding-right: 0;
+}
+.wish-image
+{
+	width: 100%;
+}
+.mid-container
+{
+	background-color: #ffcbcb;
+	text-align: center;
+}
+.mid-bday-image
+{
+	height: 300px;
+	width: 300px;
+	border-radius: 20%;
+}
+.transition-image
+{
+	height: 300px;
+	width: 100%;
+}
