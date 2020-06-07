@@ -1,3 +1,3 @@
 $(".wish-button").on("click",function(){
-    var video=$(".wish")[0].play();
+    var video=$("video")[0].play();
 });
