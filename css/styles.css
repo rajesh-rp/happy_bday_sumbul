@@ -74,5 +74,18 @@ p
 }
 .wish
 {
+	margin: 20px 0;
 	text-align: center;
+
 }
+.last-wish{
+	padding: 0;
+	margin: 0;
+}
+.bottom-container{
+	background-color: #eeeeee;
+}
+.fire-wish{
+	background-color: #d1eaa3;
+}
+
